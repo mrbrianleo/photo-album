@@ -1,17 +1,54 @@
-.picture-preview .photo {
-  height: 100px;
-  overflow: hidden;
-}
-.sidebar {
-  width: 250px;
-  background: red;
-  float: left;
-}
-.sidebar .active {
+.home-content-wrapper {
+  background-color: blue;
   color: white;
 }
-.main {
-  width: calc(100% - 250px);
-  background: green;
-  float: right;
+.home-content-wrapper .home-header {
+  background-color: #999;
+}
+.home-content-wrapper .home-content {
+  background-color: red;
+}
+.home-content-wrapper ul {
+  margin: 0;
+  padding: 0;
+}
+.home-content-wrapper ul li {
+  display: inline-block;
+  border: 1px solid red;
+}
+.home-content-wrapper ul li h4 {
+  margin: 0;
+  padding: 10px 0;
+  background-color: green;
+}
+.main-content-wrapper {
+  background-color: orange;
+}
+.main-content-wrapper .main-leftnav {
+  background-color: green;
+}
+.main-content-wrapper .main-leftnav ul {
+  margin: 0;
+  padding: 0;
+}
+.main-content-wrapper .main-leftnav ul li {
+  list-style: none;
+  display: inline-block;
+}
+.main-content-wrapper .main-content {
+  background-color: red;
+}
+.main-content-wrapper .main-content .main-content-header {
+  background-color: blue;
+}
+.main-content-wrapper .main-content ul {
+  margin: 0;
+  padding: 0;
+}
+.main-content-wrapper .main-content ul li {
+  list-style: none;
+  display: inline-block;
+}
+.main-content-wrapper .main-content .main-content-detail {
+  background-color: green;
 }
