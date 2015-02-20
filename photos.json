@@ -1,162 +1,162 @@
 [{
   "album": "bridges",
-  "photo_name": "Brooklyn Bridge",
+  "name": "Brooklyn Bridge",
   "url": "img/bridges/brooklyn.jpg",
   "photo_id": 1,
   "photo_description": "description"
 },{
   "album": "bridges",
-  "photo_name": "Foot Bridge",
+  "name": "Foot Bridge",
   "url": "img/bridges/foot.jpg",
   "photo_id": 2,
   "photo_description": "description"
 },{
   "album": "bridges",
-  "photo_name": "Golden Gate",
+  "name": "Golden Gate",
   "url": "img/bridges/golden-gate.jpg",
   "photo_id": 3,
   "photo_description": "description"
 },{
   "album": "bridges",
-  "photo_name": "Milleneum Bridge",
+  "name": "Milleneum Bridge",
   "url": "img/bridges/milleneum.jpg",
   "photo_id": 4,
   "photo_description": "description"
 },{
   "album": "bridges",
-  "photo_name": "Pier",
+  "name": "Pier",
   "url": "img/bridges/pier.jpg",
   "photo_id": 5,
   "photo_description": "description"
 },{
   "album": "bridges",
-  "photo_name": "Railroad Bridge",
+  "name": "Railroad Bridge",
   "url": "img/bridges/railroad.jpg",
   "photo_id": 6,
   "photo_description": "description"
 },{
   "album": "bridges",
-  "photo_name": "Steel Bridge",
+  "name": "Steel Bridge",
   "url": "img/bridges/steel.jpg",
   "photo_id": 7,
   "photo_description": "description"
 },{
   "album": "bridges",
-  "photo_name": "Suspension Bridge",
+  "name": "Suspension Bridge",
   "url": "img/bridges/suspension.jpg",
   "photo_id": 8,
   "photo_description": "description"
 },{
   "album": "bridges",
-  "photo_name": "Wooden Bridge",
+  "name": "Wooden Bridge",
   "url": "img/bridges/wooden.jpg",
   "photo_id": 9,
   "photo_description": "description"
 },{
   "album": "people",
-  "photo_name": "Banjo Player",
+  "name": "Banjo Player",
   "url": "img/people/banjo.jpg",
   "photo_id": 1,
   "photo_description": "description"
 },{
   "album": "people",
-  "photo_name": "Beard Man",
+  "name": "Beard Man",
   "url": "img/people/beard.jpg",
   "photo_id": 2,
   "photo_description": "description"
 },{
   "album": "people",
-  "photo_name": "Clown",
+  "name": "Clown",
   "url": "img/people/clown.jpg",
   "photo_id": 3,
   "photo_description": "description"
 },{
   "album": "people",
-  "photo_name": "Music Man",
+  "name": "Music Man",
   "url": "img/people/costume.jpg",
   "photo_id": 4,
   "photo_description": "description"
 },{
   "album": "people",
-  "photo_name": "Kissing Couple",
+  "name": "Kissing Couple",
   "url": "img/people/kissing.jpg",
   "photo_id": 5,
   "photo_description": "description"
 },{
   "album": "people",
-  "photo_name": "Legs",
+  "name": "Legs",
   "url": "img/people/legs.jpg",
   "photo_id": 6,
   "photo_description": "description"
 },{
   "album": "people",
-  "photo_name": "Skater Dude",
+  "name": "Skater Dude",
   "url": "img/people/skateboard.jpg",
   "photo_id": 7,
   "photo_description": "description"
 },{
   "album": "people",
-  "photo_name": "Three Amigos",
+  "name": "Three Amigos",
   "url": "img/people/three-amigos.jpg",
   "photo_id": 8,
   "photo_description": "description"
 },{
   "album": "people",
-  "photo_name": "Toddler",
+  "name": "Toddler",
   "url": "img/people/toddler.jpg",
   "photo_id": 9,
   "photo_description": "description"
 },{
   "album": "travel",
-  "photo_name": "Airplane Wing",
+  "name": "Airplane Wing",
   "url": "img/travel/airplane-wing.jpg",
   "photo_id": 1,
   "photo_description": "description"
 },{
   "album": "travel",
-  "photo_name": "Travel Gear",
+  "name": "Travel Gear",
   "url": "img/travel/backpack-kit.jpg",
   "photo_id": 2,
   "photo_description": "description"
 },{
   "album": "travel",
-  "photo_name": "Desert",
+  "name": "Desert",
   "url": "img/travel/desert.jpg",
   "photo_id": 3,
   "photo_description": "description"
 },{
   "album": "travel",
-  "photo_name": "Hot Air Balloon",
+  "name": "Hot Air Balloon",
   "url": "img/travel/hot-air.jpg",
   "photo_id": 4,
   "photo_description": "description"
 },{
   "album": "travel",
-  "photo_name": "Mountains",
+  "name": "Mountains",
   "url": "img/travel/mountains.jpg",
   "photo_id": 5,
   "photo_description": "description"
 },{
   "album": "travel",
-  "photo_name": "Open Road",
+  "name": "Open Road",
   "url": "img/travel/open-road.jpg",
   "photo_id": 6,
   "photo_description": "description"
 },{
   "album": "travel",
-  "photo_name": "Railroad",
+  "name": "Railroad",
   "url": "img/travel/railroad.jpg",
   "photo_id": 7,
   "photo_description": "description"
 },{
   "album": "travel",
-  "photo_name": "Sunset Pier",
+  "name": "Sunset Pier",
   "url": "img/travel/sunset.jpg",
   "photo_id": 8,
   "photo_description": "description"
 },{
   "album": "travel",
-  "photo_name": "Surf Bus",
+  "name": "Surf Bus",
   "url": "img/travel/vw.jpg",
   "photo_id": 9,
   "photo_description": "description"

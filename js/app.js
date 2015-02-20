@@ -5,7 +5,7 @@ var App = (function(){
     this.data = data;
 
   }
-
+  
   return App;
 
 })();

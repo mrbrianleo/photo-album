@@ -1,0 +1,17 @@
+.picture-preview .photo {
+  height: 100px;
+  overflow: hidden;
+}
+.sidebar {
+  width: 250px;
+  background: red;
+  float: left;
+}
+.sidebar .active {
+  color: white;
+}
+.main {
+  width: calc(100% - 250px);
+  background: green;
+  float: right;
+}
