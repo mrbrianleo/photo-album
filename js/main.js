@@ -7,7 +7,7 @@ $(function(){
     },
 
     error: function() {
-      console.log("failed to load contacts.json");
+      console.log("failed to load photos.json");
     }
 
   });
