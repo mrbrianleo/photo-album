@@ -17,3 +17,4 @@ var AlbumThumbs = (function(){
   return AlbumThumbs;
 
 })();
+
