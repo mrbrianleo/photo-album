@@ -29,9 +29,13 @@
 
 .main-content-wrapper {
   background-color: orange;
+  height: auto;
 
   .main-leftnav {
     background-color: green;
+    height: 400px;
+    width: 300px;
+    float: left;
 
     ul {
       margin: 0;
@@ -46,6 +50,9 @@
 
   .main-content {
     background-color: red;
+    width: calc(~'100% - 400px');
+    float: right;
+
 
     .main-content-header {
       background-color: blue;

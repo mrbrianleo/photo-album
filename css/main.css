@@ -23,9 +23,13 @@
 }
 .main-content-wrapper {
   background-color: orange;
+  height: auto;
 }
 .main-content-wrapper .main-leftnav {
   background-color: green;
+  height: 400px;
+  width: 300px;
+  float: left;
 }
 .main-content-wrapper .main-leftnav ul {
   margin: 0;
@@ -37,6 +41,8 @@
 }
 .main-content-wrapper .main-content {
   background-color: red;
+  width: calc(100% - 400px);
+  float: right;
 }
 .main-content-wrapper .main-content .main-content-header {
   background-color: blue;
